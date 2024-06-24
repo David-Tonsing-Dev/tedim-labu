@@ -1,0 +1,830 @@
+[
+    {
+        "title": {
+            "zo": "Pasian phatna",
+            "english": "Praise God, from whom All Blessings Flow"
+        },
+        "songNo": 1,
+        "doh": "G",
+        "category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Thu kheempeuh hong pia Pasian<br/>Phat un, leitung mi khempeuh aw<br/>Phat un, vantung mi honpi'n zong phat un<br/>Pa Ta le khasiangthou</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Itna Kumpi, ka tuu-cing Pa",
+            "english": "The King of Love My Shepherd Is (Dominus Regit Me)"
+        },
+        "songNo": 2,
+        "doh": "G",
+        "category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Itna Kumpi, ka tuu-cing pa,<br />Ama hoihna sia ngei lo,<br/>A mi suak leng sapna om lo,<br/>Tawntung Ama mi hi ta.</p>",
+                "2": "<p>Nuntakna tui a luanna ah,<br/>Tat khiat sa ka kha ton pih,<br/>Lono na ah hong pai pih hi,<br/>Vantung aa tawh hong vaak hi.</p>",
+                "3": "<p>Khuamial sihna kuam sung lau lo,<br/>Kei kiang Topa Na om hi,<br/>Ka lung nuam sak,<br/>Na ciang khut in,<br/>Lam hong hilh singlamteh in.</p>",
+                "4": "<p>Ni sim tawntung kizom suak in,<br/>Na hoihna kipelh ngei lo,<br/>Tuu-cing siampa, Nang kong phat hi,<br/>Tawntung Nangma innpi sung-Amen.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Kumpipa bia un",
+            "english": "O Worship the King"
+        },
+        "songNo": 3,
+        "doh": "G",
+        "category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Vantung zahtak huai Kumpipa bia un,<br/>A vaanglian leh hong it na la sa un,<br/>A hong liah hong keem hong uk tawntung maangpi<br/>A vaanglian hi, ci in phat huai Topa hi.</p>",
+                "2": "<p>Hong it hong hehpihna van pan taanga<br/>A vaang liatna thu la in sa un la<br/>A heh ciangin kekkia tawh kibang ding hi<br/>A thu khenna in haksa mahmah ding hi.</p>",
+                "3": "<p>Na lamdang tawh a dim leisung in ah<br/>Vaanglian tawntung tawh Pasian a hong piang<br/>Pel ngei lo na hanciamna tawh a kip hi<br/>Puan bangin a kiimkot tuipi hih sak hi.</p>",
+                "4": "<p>Naupang bangin thanem leiyui tate,<br/>Nang sungah muan'na bukna kong mu diam;<br/>Nong hehpihna kicing a tawpdonginah,<br>Hong bawl pa, hong dal pa, hong gum pa i Lawm.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Pa Tung Min Than'na Om Hen",
+            "english": "Gloria Patri"
+        },
+        "songNo": 4,
+        "doh": "A",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Pa tung min than'na om hen,<br/>Tapa tung leh Kha Siangtho tungah zong,<br/>Piancil lai leh tuhun bangin,<br/>A tawntung in hih leitung om den ding hi. Amen Amen.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Lungsim, Khut Le Kam Tawh",
+            "english": "Now Thank We All Our God"
+        },
+        "songNo": 5,
+        "doh": "F",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Lungsim khut le kam tawh<br/>Pasian tung i lung dam hi.<br/>A bawl lam dangte tawh<br/>Leitung kheempeuh lungdam hi.<br/>Nute'ang pan kipan<br/>Tuni ciang dong takin<br/>Kigen thei lo it na'n<br/>Hong keem thupha takin.</p>",
+                "2": "<p>A cing, migi Pasian<br/>I khan tawntung hong nai hen.<br/>Lungdam lung nopna siang<br/>Hong ompih sak tawntung hen.<br/>A hehpihna sungah<br/>Lungman' ciang lam lak hen.<br/>Lei pan vantung dongah<br/>A sia hong pel sak hen.</p>",
+                "3": "<p>Pa Pasianle Tapa,<br/>Amau tawh maang Kha Siangtho<br/>Tu'n phatna lungdamna<br/>Van saang belah i puak to<br/>Leitung, vantung, tawntung<br/>Amah bek biakna pia'n<br/>Tuma, tulai, tunung<br/>Amah khat bek Pasian.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Pasian Vaang Liatna Ka Phat Nuam Hi!",
+            "english": "Oh Could I Speak The Matchless Worth!"
+        },
+        "songNo": 6,
+        "doh": "Eb",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Hong gum Topa tung ah a taang<br/>A lian tawntung mahmah a vaang<br/>Phat ding kah to thei leng<br/>Vantung leeng to in gawsem tawh<br/>A lamdang la ka sa ding ta.<br/>Gabela dem nuam ing.<br/>Gabela dem nuam ing.</p>",
+                "2": "<p>Mawhna pan hong tat khiat na'ngin<br/>Zeisu'n A si hong bua zo hi.<br/>Pasian lungdam na'ng in,<br/>Ama vaanglian a siangthona<br/>A dem zo om kei, A siamna.<br/>La pha sa tawntung ni.<br/>La pha sa tawntung ni.</p>",
+                "3": "<p>A saang vantung tokhom tungah<br/>Tu in a om hong uk Topa<br/>Zeisu a hong itna<br/>A ngaih mah mah la awte tawh<br/>A vaanglian phatna la sakna<br/>Keimah ka hilh ding hi.<br/>Keimah ka hilh ding hi.</p>",
+                "4": "<p>Lungdam huai Ama maitangpi<br/>Hong mu in ci'n a hong sap ni<br/>A hong tung lai ding hi<br/>Hong it manin zawhna ngaha<br/>Hong gum Zeisu ka u kiangah<br/>Ka om tawntung ding hi.<br/>Ka om tawntung ding hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "A Min Bangzah ngaih Hiam",
+            "english": "How Sweet The Name of Jesus Sounds"
+        },
+        "songNo": 7,
+        "doh": "F",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Zeisu a min bangzah ngaih hiam<br/>A um ta dingin ah<br/>Gimna, natna damsak a nuam.<br/>Launa a hawl khia ta.</p>",
+                "2": "<p>A zan gawp lungsim damsak hi<br/>Dahna lungsim nuamsak.<br/>Kha Siangtho kial vahna pia hi.<br/>A gim mi tawl damsak.</p>",
+                "3": "<p>A to suangpi it huai minpha<br/>Gal panna belhna hi.<br/>A tam bel itna hehpihna<br/>A ki kholna lian hi.</p>",
+                "4": "<p>Zeisu lawmpa, tuu cingpa,<br/>Ka siampi, ka kumpi,<br/>Ka Topa hin'na lam a pha a,<br/>Phat tawntung ngah pah hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Hong Pai In, Thupha Nam Kim Nak",
+            "english": "Come, Thou Fount Of Every Blessing"
+        },
+        "songNo": 8,
+        "doh": "Eb",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Hong pai in, thupha nam kim Nak,<br/>Ka lungsim hong puahsak in;<br/>Kang ngei lo Nong hehpihna Nak,<br>Nakpi'n hong phat thei sak in.<br/>Vantung mite phatna la ngaih<br/>Kei zong hong sa thei nuam ing;<br/>Nong itna tung kip ka lung ngaih,<br/>Tua itna mual ka phat ding.</p>",
+                "2": "<p>Nong huhna tawh hih ciang kong tung,<br/>Huhna mual suang hiah phut ing;<br/>Nong deih sakna hangin tu nung<br/>Lung muangin inn hong tung ning.<br/>Lam khial a Pasian ka nusia,<br/>Ahih hang Zeisu'n hong zong;<br/>A si manpha tawh hong tan khia<br/>Gimna lauhuai pan hong hon.</p>",
+                "3": "<p>A ni simin hong hehpihna<br/>A tampi hong ba sak den;<br/>Na hehpih na'n hong khih in la,<br/>Na kiang pan hong pial sak ke'n.<br/>Topa kong vak san dek zeel hi,<br/>Ka it Pasian, hong keem in;<br/>Hiah! ka lungsim, Nang sung seel ni,<br/>Nang aadiing Na ciamteh in.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Leitung Mihing Kheempeuh",
+            "english": "All People That On Earth"
+        },
+        "songNo": 9,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Leitungah om mihingte aw<br/>Pasian phatna la sa un la<br/>A vaang liatna thu gen un la<br/>A mai pai in sa un nopna.</p>",
+                "2": "<p>Amah bek Pasian takpi hi.<br/>Mi kheempeuh bawl Topa hia;<br/>Ka tuute hong suak un, hong ci<br/>Kong keem, kong cing nuam ci in ah.</p>",
+                "3": "<p>Hong itna in bei thei ngei kei,<br/>Hong hehpihna om tawntung hi;<br/>A thu ciamna sia sak ngei kei.<br/>A min i phat tawntung ding hi.</p>",
+                "4": "<p>Pasian bang hang migi bel hiam<br/>A hong itna maan tak tak hi.<br/>A thumaan a cilin om ta.<br/>A tawntung in a kip ding hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Keimah Hong Gumpa",
+            "english": "My Redeemer"
+        },
+        "songNo": 10,
+        "doh": "Ab",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Hong gum Topa hong it lamdang<br/>Lungdam sin dam la ka sa.<br/>Ki ciamna hong pel sak nuam hi.<br/>Singlamteh tung si zo ta.</p>",
+                "2": "<p>Vantung inn nuampi luahna ding<br/>A lamdang thupha gen hi.<br/>Hong hehpih hong it luat man in<br/>Ka mawh hong phel sak zo hi.</p>",
+                "3": "<p>Hong gum Topa A minthang hi.<br/>Nisim la sa in phat ning.<br/>Sih ciang mawh tanna mei kuang sung<br/>Hong tung sak nuam lo ding hi.</p>",
+                "4": "<p>Hong gum Topa hong itna pha<br/>La pha ka sak ding ngai hi.<br/>Sihna, hin' tawntungna lamah<br/>Amah tawh ka om ding hi.</p>",
+                "chorus": "<p>Topa phat na sak ding la pha<br/>A si pha tawh hong sawp hi<br/>Singlamteh tung sihna thuak a<br/>Ka mawh hong phel sak zo hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Siangtho, Siangtho, Siangtho!",
+            "english": "Holy, Holy, Holy!"
+        },
+        "songNo": 11,
+        "doh": "Eb",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Siangtho, siangtho, siangtho!<br/>A lian pen Topa Pasian!<br/>Zingsang tungin phatna la kong sak to ding uh hi.<br/>Siangtho, siangtho, siangtho!<br/>Hehpih thei a vaang lian!<br/>Thum ki gawmna siangtho thupha Pasian!</p>",
+                "2": "<p>Siangtho, siangtho, siangtho!<br/>Na mi siang kheempeuh in,<br/>Kham lu khute suah khia in<br/>Nangmah hong bia uh hi.<br/>Vantung mihingte in,<br/>Nangma maiah kunin<br/>Tawntung Pasian Nang mah hong bia uh hi.</p>",
+                "3": "<p>Siangtho, siangtho, siangtho!<br/>Khuamial hong liah hang in,<br/>Mawhna mitin Na vaanglian hong mu thei lo hangin.<br/>Nangmah bek Na siangtho,<br/>Kuamah'n hong ban zo lo,<br/>Na vaang liatna,<br/>It na le sian'thona.</p>",
+                "4": "<p>Siangtho, siangtho, siangtho!<br/>A lian pen To Pasian!<br/>Leitung, tuitung, vantungah Na min Kiphat ding hi.<br/>Siangtho, siangtho, siangtho!<br/>Hehpih thei a vaanglian!<br/>Thum kigawmna siangtho thupha Pasian!</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Ngai In Ka Kha Aw",
+            "english": "Hark, Hark, My Soul"
+        },
+        "songNo": 12,
+        "doh": "D",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Ngai in, ka kha aw, vantung mi la sakna<br/>Leitung lungdam tuipi tung zong thang hi.<br/>La pha sakna a aw zak no huai bel hi.<br/>Hing ki kheel mawh kiphelna thu gen hi.</p>",
+                "2": "<p>La aw zak ciang mailam nawt in i pai hi.<br/>Lungkham a gim te aw hong pai un ci.<br/>Khuamial sung ah<br/>Topa Zeisu ki ko hi.<br/>Vantung inn lam hilhna thupha aw hi.</p>",
+                "3": "<p>Gam lapi ah ni tak siklong ging bang in<br/>Leitung, tuitung ah Zeisu aw ging hi.<br/>Tui then tham lo a van lel mi tampi in<br/>Tuu cing Topa aw Na kiang kong pai hi.</p>",
+                "4": "<p>Tu laitak i lungkham a sawt hangin-ah<br/>Khuamial kheng leeng nuam na'ng khuavaak ding hi<br/>A gimte zuihna lam a bei ciangin-ah<br/>Kha siangtho maang ding kham gam tung ding hi.</p>",
+                "chorus": "<p>Thu ciamna cing kham vantung mihingte in<br/>A aw zak nop huai in la sa uh hi.<br/>Nitak kap-a zing-sang ciang lungdam sak hi<br/>Sawtvei khuamial it-na khuavaak sak in.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Kumpi Lukhu Khusak Un",
+            "english": "Crown Him"
+        },
+        "songNo": 13,
+        "doh": "F",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Leitung mihing te aw en un<br/>Dahna thuak Zeisu a hi<br/>A gal kheempeuhte zo gawp zo,<br/>Mi kheempeuh in bia uh hi.</p>",
+                "2": "<p>Vantung a mihing kheempeuh in<br/>Topa Zeisu min phat hi<br/>Thukhen tokhom tung tusak a<br/>Vantung mite'n phatsak hi.</p>",
+                "3": "<p>Mi gilote'n ling tawh kigan<br/>Lukhu Zeisu khusak hi.<br/>Mi siangtho leh vantung mite'n<br/> Tu'n Zeisu a min phat hi.</p>",
+                "4": "<p>A min phat in a kiko un<br/>Gal zo pawi khaamna ngai un.<br/>Topa Zeisu in maan ngah hi.<br/>Lung dam huai bel hi, en un.</p>",
+                "chorus": "<p>Kumpi lukhu, kumpi lukhu<br/>Topa Zeisu khusak un,<br/>Kumpi lukhu, kumpi lukhu<br/>Topa Zeisu khusak un.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Tapidaw Khangnote Thupha Piakna",
+            "english": "Christian Endeavour Benediciton"
+        },
+        "songNo": 14,
+        "doh": "C",
+        "Category": "Prayer",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Pa aw, ka kikhen uh ciang;<br/>Ko lungsim Nag deih bang hi ta hen.<br/>Eite khat leh khat I kikhen ciangin<br/>Topa Pasian in, I omna ciah-ah</br/>Hong keem tawntung ta hen. Amen</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "A Vaanglian Topa, Phat Un",
+            "english": "Praise to the Lord, The Almighty"
+        },
+        "songNo": 15,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa phat un, na kheempeuh a piangsak Kumpipa hi.<br/>Aw ka kha aw, Amah phat in damna gupna hong pia.<br/>Tua thu zate'n a biak inn sung zuan dingin,<br/>Amah va bia khawm ciat ve ni.</p>",
+                "2": "<p>Topa phat un, na kheempeuh a vekpi Ama uk hi.<br/>A kha nuaiah tawldam, lungmuan' nopsakna a hong pia.<br/>Na deih nai hiam, A hoihna na muh ciangin,<br/>Ama hong piak kheempeuh thei ni.</p>",
+                "3": "<p>Topa phat un, na sepna bawl na kheempeuh hong huh hi.<br/>A maan takin hehpihna leh nopna tawh hong khuh dia.<br/>Lung ngai ngai in, A mah tha hatna thei in.<br/>Amah tawh va kipawl thei ni.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Topa Thupha Sang Nuam I Kikhawm Hi",
+            "english": "We Gather Together to Ask The Lord's Blessing"
+        },
+        "songNo": 16,
+        "doh": "D",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa thupha saang nuam ngen in I kikhawm hi;<br/>Ama deihna theih na ding manlang hong puak;<br/>Dawi netcip thuak nate tu'n bei in lung nuam ta,<br/>Amin phatna la sa, A mi mang-ngilh lo hi.</p>",
+                "2": "<p>Eite lam hong lak ding, Pasian i kiang hong om,<br/>A van tung gam puah in a siangtho sak hi.<br/>Tua a hih manin, a kipat pan gal i zo<br/>Ko lam aa hong pang Topa, Na min thang ta hen.</p>",
+                "3": "<p>Na min kong phat uh hi. Gal zo makai pi pa,<br/>Kote hong dal hong keem ding kong ngen uh hi.<br/>Ze-et na tawh mite hong ki pelh sak in<br/>Na min kiphat den hen! Topa hong gum in.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Pasian Naseemte Aw, Na Topa'n Gen Khia Zo",
+            "english": "Ye Servants of God, Your Master Proclaim"
+        },
+        "songNo": 17,
+        "doh": "A",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Pa na seemte aw, gamlapi zeel un,<br/>Topa'n thang sak hi, lamdang Ama min<br/>Na kheempeuh a zo min Zeisu ahi hi.<br/>Ama gam in zai a na kheempeuh uk hi.</p>",
+                "2": "<p>Thahat Pasian in gum ding van pan uk,<br/>Amah'n hong zuan hi, A kiang i om hi.<br/>Mihon tampi'n zong zawhna la sa uh hi.<br/>Ei hong gum Kumpipa Zeisu hi, ci hi.</p>",
+                "3": "<p>Kumpi tokhom tung To gumpa Pasian,<br/>Vekpi in phat hi, A Tapa phat hi.<br/>Vantung mite'n zong Zeisu a phat uh hi.<br/>Tuuno mai bok in, Amah a bia uh hi.</p>",
+                "4": "<p>Ei zong phat tek ni, A vaang liatna thu,<br/>A min than'na thu, A pilna, hatna,<br/>Phatna leh thupha tawh i phat tek ding hi.<br/>Van pan vantung mi'n tawntung itna phat hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Zing Ni Suak Sensan Ta",
+            "english": "When Morning Gilds the Skies"
+        },
+        "songNo": 18,
+        "doh": "C",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Zing ni suak sensan ta.<br/>Ka lungsim khanglo ta<br/>Zeisu Khazih phathuai!<br/>Na seem ding, thu ngen ding.<br/>Zeisu kiang va zuan ning.<br/>Zeisu khazih phat huai!</p>",
+                "2": "<p>Lung sung dahna om hiam,<br/>Hihah ka dahna kiam,<br/>Zeisu Khazih phat huai!<br/>Leitung nuamna bei le,<>br/>Hehnepna om veve<br/>Zeisu Khazih phat huai!</p>",
+                "3": "<p>Vantung lungdamna ah<br/>La a ngaih pen hih mah,<br/>Zeisu Khazih phat huai!<br/>Khuamial vaangte'n kihta<br/>A zak uh ciang hih la<br/>Zeisu Khazih phat huai!</p>",
+                "4": "<p>Leitung ka hin' lai teng<br/>Sa ning ka sih mateng;<br/>Zeisu Khazih phat huai!<br/>Sih ciang vantung tung leng<br/>Ka la hih mah hi leng;<br/>Zeisu Khazih phat huai!</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Zeisu! Na Min Ngaih Ka It Hi",
+            "english": "Jesus! I Love thy Charming Name"
+        },
+        "songNo": 19,
+        "doh": "B",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Zeisu! Na min ngaih ka it hi,<br/>Bil in tua la ka za;<br/>Nakpi piin ging khia sak in,<br/>Vantung leitung thawn in.</p>",
+                "2": "<p>Ka kha aading Nang Na manpha,<br/>Ka lampi leh ka muan<br/>Nangma maiah suang mangphate,<br/>Milim no zep bang hi.</p>",
+                "3": "<p>Ka deih teng leh ka ut kheempeuh,<br/>Nang sungah kimtak om;<br/>Kei mit in kiman lo sa keng,<br/>Lawm tak lo bang sa keng.</p>",
+                "4": "<p>Na hehpihna ka lung sung teeng,<br/>A namtuina hong bua;<br/>Liamma kheempeuh a damsak thei,<br/>Itna tawh hong keem hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Kong Phat Uh Hi, Topa!",
+            "english": "Glory To Thee, My God!"
+        },
+        "songNo": 20,
+        "doh": "Bb",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Kong phat uh hi, Topa, tuzan,<br/>Na thupha khuavaak hong pia in;<br/>Hong keem in, aw, kei hong keem in,<br/>Na vaanglian Kumpi kha nuaiah.</p>",
+                "2": "<p>Zeisu min in hong maisak in,<br/>Tu ni dong ka mawhna sate;<br/>Hih leitungah Nang leh kei bek,<br/>Nuam takin hong ihmu sak in.<br/></p>",
+                "3": "<p>Nuntakna lamkei hong hilh in,<br/>Tua hi kei leh kei ka si ding.<br/>Sihna ding thu kei hong hilh in,<br/>Thu khen ni ciang thawh kikna thu.</p>",
+                "4": "<p>Ka kha Nag kiang hong la in la,<br/>Nuam tak kei hong ihmu sak in;<br/>Tua in kei hong thahat sak in,<br/>Ka thawh kik ciang Topa phat ning.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Hong Khihna In A Pha Hi",
+            "english": "Blest Be The Tie That Binds"
+        },
+        "songNo": 21,
+        "doh": "F",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Ei lung hong khih nading<br/>Zeisu itna pha hi.<br/>Lung kituakna in vantung khua<br/>Kituak na bang om hi.</p>",
+                "2": "<p>Ei Pa tokhom maiah<br/>Nakpi thu i ngen hi.<br/>Ei lawp na, upna, deihna teng<br/>A ki bangin om hi.</p>",
+                "3": "<p>Ei te'n dahna thuak khawm<br/>Van puakna ki pua hi.<br/>Khatvei vei i lawmte aading<br/>Khitui a luang thei hi.</p>",
+                "4": "<p>Eite kikhen ciangin<br/>Lungsim dahna piang hi.<br/>Hih bang i lungsim tawh om khawm<br/>Nung ciang kimu ding hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Topa Aw Nangma Thupha Tawh",
+            "english": "Lord, Dismiss Us With Thy Blessing"
+        },
+        "songNo": 22,
+        "doh": "Eb",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa aw, Nangma thupha tawh<br/>Dim in hong kikhen sak in<br/>Nangma itna bang neihna tawh<br/>Hehpihna hong paksak in.<br/>Tha hong guan aw, tha hong guan aw<br/>Hih gam mang sung zin lai in.</p>",
+                "2": "<p>Nangma lungdam thu hanginah<br/>Nang kong phat uh Topa aw,<br/>Ko lung sung leh gamtatna ah<br/>Na hotna gah lang leh maw.<br/>Nang thumaanah, Nang thumaanah<br/>Hong kip tawntung le ung maw.</p>",
+                "3": "<p>Leitung pan in Nong sap peuh ciang,<br/>Sihna kihta het loin<br/>Vantung mite'n hong lenpih ciang,<br/>Hong mang ning lungdam takin<br/>Tawntung Na kiang, tawntung Na kiang,<br/>Nangmah tawh hong maang sak in./p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Topa Aw, It Huai Na Min Phat Na'ng La!",
+            "english": "Saviour, Again To Thy Dear Name"
+        },
+        "songNo": 23,
+        "doh": "Ab",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa aw, it huai Na min phat na'ng la<br/>Lungsim kikhat in kong sa lai uh a,<br/>Ko kikhen ma in kong phat khawm uh hi,<br/>Nangma thupha kun in kong ngak uh hi.</p>",
+                "2": "<p>Nangma thupha tawh hong ciah sak in la<br/>Na min tawh tu ni hong khin sak in la,<br/>Ka kam ka muk uh leh komau lungsim<br/>Khial lo nadingin Nangmah'n hong cing kim.</p>",
+                "3": "<p>Tuzan khuavaak lung nopna hong guan in<br/>Khuamial, ko aading khuavaak suaksak in,<br/>Nang aading sun le zan danglo manin<br/>Na tate launa pan hong keem ta in.</p>",
+                "4": "<p>Leitung nun'tak lai lungnop hong pia in.<br/>Dah hong neem in, hong kipsak tawntung in;<br/>Ko gal dona Nong tawlngak sak tak ciang,<br/>Hong sam in tawntung nopna Nangma kiang.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Topa A Inn Siangtho Sung Om Hi",
+            "english": "The Lord Is In His Holy Temple"
+        },
+        "songNo": 24,
+        "doh": "Db",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa A inn siangtho sung om hi, Topa<br/>A inn siangtho sung om hi,<br/>Dai dide in om ta un,<br/>Dai dide in om ta un,<br/>Amai ah, Dai dide'n om ta un,<br/>Amai ah. Amen</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Nangmah Tawh Pasian Om Khawm Ta Hen",
+            "english": "God Be With You"
+        },
+        "songNo": 25,
+        "doh": "",
+        "Category": "Farewell",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Nangmah tawh Pasian om khawm ta hen;<br/>A hong pi, a hong len dingin,<br/>A tuu tawh hong keem bit dingin,<br/>Nangmah tawh Pasian om khawm ta hen.</p>",
+                "2": "<p>Nangmah tawh Pasian om khawm ta hen;<br/>A kha nuai hong liah hong dal in,<br/>Nisim 'Manna' hong vaak dingin,<br/>Nangmah tawh Pasian om khawm ta hen.</p>",
+                "3": "<p>Nangmah tawh Pasian om khawm ta hen;<br/>Launa'n hong lungim sak ciang in,<br/>Angsung hong pom bik-bek dingin<br/>Nangmah tawh Pasian om khawm ta hen.</p>",
+                "4": "<p>Nangmah tawh Pasian om khawm ta hen;><br/>Itna nuai-ah hong cing dingin,<br/>Sihna tuihual satpaai dingin<br/>Nangmah tawh Pasian om khawm ta hen.</p>",
+                "chorus": "<p>I kimuh kik mateng,<br/>Zeisu kiang kimuh mateng,<br/>I kimuh kikma teng,<br/>Nangmah tawh Pasian om khawm ta hen.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Kei Tawh Om Khawm In",
+            "english": "Abide With Me"
+        },
+        "songNo": 26,
+        "doh": "A",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Kei tawh Om khawm in, ni a tum zo a<br/>Khua mial sem sem in kei kiangah om ta.<br/>Hong gum ding a dang om lo lai takin<br/>Hong gum Topa aw kei kiangah om in.</p>",
+                "2": "<p>Leitung nuntakna mengmeng'n bei thei,<br/>Leitung-ah nuam na om tawntung thei kei<br/>Leitung-ah siatna ngentang ka mu ta,<br/>Kei tawh om khawm in sia thei kei Topa.</p>",
+                "3": "<p>Kei tawh om khawm, Kei ma tha a pha kei,<br/>Nangmah bek in zo etna na zo thei.<br/>Nangmah bangin kua'n hong paipih thei maw!<br/>Lungdam loh laitak kei tawh om khawm aw.</p>",
+                "4": "<p>Thupah na hong piak leh kei ka lau lo,<br/>Dahna khitui'n zong hong sia sak zo lo.<br/>Sihna leh han in hong zo thei lopi.<br/>Kei tawh na om khawm leh ka zo thei hi.</p>",
+                "5": "<p>Keima ka mit si ka sih lai takin<br/>Na singlamteh ka mai-ah hong lak in.<br/>Vantung khuavaak leitung khuamial bei a<br/>Sih laitak kei tawh om khawm in Topa.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "A Vaanglian Pa Aw, Ko Thum Na Hong Ngai In",
+            "english": "Almighty Father, Hear Our Prayer"
+        },
+        "songNo": 27,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>A vaanglian Pa aw, kong thum hong ngai in,<br/>Na ma, hong ngak ko thupha hong pia'n.<br/>Amen.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Tung Sun Ni A Tum Ta A",
+            "english": "Day Is Dying In The West"
+        },
+        "songNo": 28,
+        "doh": "Ab",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Tung sun ni a tum ta-a<br/>Tawl ngakna hun hong tung ta;<br/>Zan aksi hong suak lai-a<br/>Thangvan paak bang palh lai-a<br/>Pasian bia ni.</p>",
+                "2": "<p>Nuntakna a uk Topa,<br/>Van nuai teng Nang ma omna<br/>Nangma mai hong zong kote,<br/>Na ang sungah hong khawm vo,<br/>Kinai tak-in.</p>",
+                "3": "<p>Khua hong mial sem-sem hangin,<br/>A taang aksite khengin<br/>Ko lungsim hong kha to tan<br/>Nangma mai mu nuam in-ah,<br/>Vannuai it-pa.</p>",
+                "4": "<p>Aksite le zan le sun<br/>Mu ngei nawn lo ding a hun<br/>Hong tun' ciang, vantung Topa'n<br/>Tawntung zing khua vaak sak ta'n,<br/>Kote' mai-ah</p>",
+                "chorus": "<p>Siangtho, siangtho, siangtho, Topa Pasian<br/>Leitung, vantungah Na vaang,<br/>Nangmah phatna hong kilang<br/>Saang bel Pasian!</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Leitung, Vantung, Khuamial, Khuavaak",
+            "english": "God that Modest Earth and Heaven"
+        },
+        "songNo": 29,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Leitung, vantung, khuamial, khuavaak, Piang sak Pasian,<br/>Sun na sep hun leh zan tawlngak Hong pia Pasian,<br/>Na vantung mi hong cing sak in<br/>Ihmut nuam tawh ohng hehpih in,<br/>Ngaihsut, lamet siangtho hong guan in,<br/>Tuzan khuavaak.</p>",
+                "2": "<p>Nun' tak lam mai nawt nading zing Khuavaak cianga<br/>Ko hong mang keei-kaai zo nading Nangma deihna.<br/>Siatna' vang panin hong dal in.<br/>Lam kawcikah hong paipih in,<br/>Sun niloh hong mu khial sak kei-in<br/>Nang ma maipha.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Tu In Sun' Ni Tum Ta",
+            "english": "Now The Day Is Over"
+        },
+        "songNo": 30,
+        "doh": "A",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Tu in sun ni lum ta,<br/>Zan hong nai ta hi;<br/>Nitak khuamui mialna<br/>Damdam hong tung hi.</p>",
+                "2": "<p>Zeisu aw a gimte,<br/>Tawldam hong pia in<br/>Na thupha tawh kote,<br/>Hong ihmu sak in.</p>",
+                "3": "<p>Ko Nangma ta-note,<br/>Nang hong mu sak in.<br/> Tuipi tung khualzinte,<br/>Nangmah'n Na keem in.</p>",
+                "4": "<p>Tuzan-khuavaak inah,<br/>Na vantung mite'n,<br/>Ko tung kha zak-inah<br/>Ko hong cing uh hen.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Topa, Ko Ihmut Ma In",
+            "english": "Saviour, Breathe An Evening Blessing"
+        },
+        "songNo": 31,
+        "doh": "Bb",
+        "Category": "Evening Prayer",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa aw, ko ihmut ma in<br/>Nitak thupha hong pia in.<br/>Mawhna le kisapna ko nei,<br/>Nong hon thei, Nong damsak thei.</p>",
+                "2": "<p>Siatna in hong kiim vel hangin<br/>Thaltang tawh hong kap hangin<br/>Na vantung mite'n hong cing a,<br/>Nong nai ciang lau nawn lo ta.</p>",
+                "3": "<p>Zan khua a mial phat bangin<br/>Nang hong liah lo khuamial in.<br/>Na mihingte' omna peuhah<br/>Nang, gim ngei lo a cing-Pa</p>",
+                "4": "<p>Tuzan ciangin ko lupna tung<br/>Theih kholh loh ka si zongun;<br/>A vul ngeilo paak palh bangin<br/>Vantungah zing khanglo ding.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Ka Kha Ni",
+            "english": "Sun Of My Soul"
+        },
+        "songNo": 32,
+        "doh": "F",
+        "Category": "Hursley",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Hong gum Topa ni taang bang hi<br/>Ama kiang khuamial ngei lo hi.<br/>Topa aw, Na mai kong muh na'ng<br/>Meiilum kaite na theng sak in.</p>",
+                "2": "<p>Topa ka lung kham ciangin-ah<br/>Mitgui in a kham luat lai-ah<br/>Topa aw, Nangma ang sungah<br/>Ka tawl ka hong damsak nuam ta.</p>",
+                "3": "<p>Topa aw, Nang na om laiah<br/>Sih ding ka kih ta keimah in<br/>Keimah tawh a om khawm dingin<br/>Nisim in Topa hong pai in.</p>",
+                "4": "<p>Tu lai-a Na thua hong sel-a<br/>Thupha bel hong nialte inah<br/>Nung ciangin a khial loh na'ngin<br/>Lam a khialte na hehpih in.</p>",
+                "5": "<p>Nitak-a a thum a taute<br/>Cidam lo a a zawngkhalte<br/>Na thupha kong na hon' in la<br/>A lung na dam sak in, Topa</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Tu-In Sunni Tum Diaidiai",
+            "english": "Safely Now The Light Of Day"
+        },
+        "songNo": 33,
+        "doh": "F",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Tu-in sun-ni tum diai-diai,<br/>Ka mit khua hong mui hiaihiai<br/>Lungsim, pumpi tawlnga in<br/>Topa, hong om khawm nuam ing.</p>",
+                "2": "<p>Ka sung ka pua Na mu khin;<br/>Hong maisak in a vekpi'n<br/>Kilanga ka khialhna le<br/>Simthama ka mawhnate.</p>",
+                "3": "<p>Kei aading a sawt loin<br/>Sun khuavaak hong bei ciangin,<br/>Mawhna dahna pengin-ah<br/>Hong la in Nangma kiangah</p>",
+                "4": "<p>Nang Na neih loh hang mawhna,<br/>Na thei ka gitnat lohna;<br/>Tua hi-a To Zeisu aw<br/>Hehpihna tawh hong en aw</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Topa, Ni Nong Piak Ni, Bei Khin Ta",
+            "english": "The Day Thou Gavest, Lord, Is Ended"
+        },
+        "songNo": 34,
+        "doh": "Ab",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa ni Nong piak ni bei khin ta,<br/>Na thu pick bang in khua hong mial;<br/>Zing sim in phatna la hong sak ung,<br/>Tawlnga lo-in Nang hong phat nung.</p>",
+                "2": "<p>Hih leitung khuavaak hong taan'lai in,<br/>Na Pawlpite ihmu ngei lo;<br/>Gam kheempeuhah Nang bek hong ki-en,<br/>Sun le zan tawlnga ngei kei nung.</p>",
+                "3": "<p>Leitung tui-tung tui-kulh mun teng-ah,<br/>A hun sial-sial in khua hong vaak,<br/>Tawlnga ngei lo-in thu hong ngen ung,<br/>Na min phat-na bei ngei lo ding.</p>",
+                "4": "<p>Hih leitung kumpi gamte bangin<br/>Na ukna gam bei ngei kei hen.<br/>Na bawlsa leitung na kheempeuh in!<br/>Na ukna gam bei ngei lo ding.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Ka Kha Aw, Topa Phat in",
+            "english": "Bless The Lord, My Soul!"
+        },
+        "songNo": 35,
+        "doh": "Bb",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Minthang Kumpi phat un, A mah bek Pasian;<br/>Phat un, ei hong lak zo hi, na lam-dang lian;<br/>Khualzin mi tonpih den ding, hong ciam phat un,<br/>Meikhuam leh sun aa meiipi hangin phat un.</p>",
+                "2": "<p>Mi Kheempeuh tat khiatna hong pia khong phat un;<br/>A siang sak thei tui-khuk hong piak man phat un;<br/>Mi-gi hong it, hong kep-na hang in phat un,<br/>I thu nget-nate hong dawn' manin phat un.</p>",
+                "3": "<p>Hong it man hong ze-etna hang in phat un,<br/>Ei-te hong kip sak in, hong lak hi, van mun;<br/>Gal zo muan'na mit lo lawpna hang phat un,<br/>It teng ki-tuah khawn na'ng mun hangin phat um.</p>",
+                "chorus": "<p>Phat un, a taang van min'n,<br/>Kham gawsem lom in<br/>A mi kheempeuh in phat A mai en sa in,<br/>A gam lianpi sungah, Kumtawn kha tawn in;<br/>A bawlsate'n phat ding, Ka kah aw phat in.<br/>A bawlsate'n phat ding, Ka kha aw phat in.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Na Kheempeuh A Uk Topa'n Kumpi",
+            "english": "Lord Of All Being"
+        },
+        "songNo": 36,
+        "doh": "Ab",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Na kheempeuh Topa, Kumpi suak,<br/>Na min thanna Ni, aksi'n taang,<br/>Leitung bup-pi hin'na laizang,<br/>Itna lungsim neite kiang nai</p>",
+                "2": "<p>Nun-tak na Ni, eite aa ding,<br/>I lam piah hong taang suk hi;<br/>Lam et na aksi na vot sak;<br/>Zan sawt vil-a om mi nuam sak.</p>",
+                "3": "<p>Zan khuamial in Na nuih mai liah,<br/>Sun ni taang Nong hehpih na hi,<br/>Sa khi tuihup hehpih na lim;<br/>Mawhna meii bang a then sak ta.</p>",
+                "4": "<p>Suah takna thumaan hong pia in,<br/>Nang aading lungsim tawhkuan' in<br/>A nungta Na biak inn suah dong,<br/>Siangtho khuavaak, vantung khuavaak. Amen</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Lungdam In Kong Bia Uh Hi",
+            "english": "Joyful, Joyful We Adore Thee"
+        },
+        "songNo": 37,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Min than'na leh itna Topa,<br/>Lungdam in kong bia uh hi;<br/>Lungsim paak bang palh Na mai-ah,<br/>Na vaang taang sung hong malh hi.<br/>Mawhna dahna meii thensak in,<br/>Hawl khia in lung muan' lahna,<br/>Sun ni taang ko sung hong dim in,<br/>Tul lo nuamna hong guan' Pa.</p>",
+                "2": "<p>Lei leh van in na vaang lang sak,<br/>Hong pah-tawi na bawlsa te'n<br/>Aksi leh van mite'n hong sak,<br/>Tat sat lo-in hong phat den,<br/>Lo leh tu-lak mual leh kuamte'n<br/>Lo dumna kham leh tuipi,<br/>Cik tui phul leh vasa hamte'n<br/>Nang sung nuam din' hong zawn' hi</p>",
+                "3": "<p>Mawh maisak Pa, Thupha pia Pa,<br/>Cing tawn-tung thu-pua Na hi;<br/>Tuinak bang nun' na sung nuamna,<br/>Tawl ngakna nuam pen Na hi.<br/>Itna nei peuh Nang aa hi khin.<br/>Ko te'n Pa leh Hon-pa aw,<br/>Ko ki it tek na'ng hong hilh in,<br/>Na nuam-na sung dom to aw.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Zeisu'n I Thumna Hong Za",
+            "english": "Jesus, Hear Our Humble Prayer"
+        },
+        "songNo": 38,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Zeisun'n i thumna hong za;<br/>A migi tuucing Pa'n<br/>Na hehpihna tawh ko-te<br/>Lungsim bit tak hong keem in. Amen</p>",
+                "2": "<p>Nang sung ka tha hat nangun<br/>Natna kheempeuh nuam sak in;<br/>Na deih bang hong hi sak in<br/>Lungdam hiah kimuh kik nang. Amen</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "I Pasian Muan'Huai Kulhpi Hi",
+            "english": "A Mighty Fortress Is Our God"
+        },
+        "songNo": 39,
+        "doh": "C",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>I Pasian muan'huai kulh pi hi,<br/>A sia nei lo kidalna;<br/>Mawhna tui bang a let mite,<br/>Puan bang sawp siang Huhpa hi;<br/>Tanglai pu le pa gal,<br/>Ei tung gal bang hong zong;<br/>A siamna vaang a lian,<br/>Git-loh muh dahna dim;<br/>Leitung leh a gam teh lo.</p>",
+                "2": "<p>Eite'n ci tha bek i suang hiam?<br/>Ei tha bek in zo lo ding;<br/>Ei lam a pang mi maan om lo,<br/>Pasian teel khiat mi pa in,<br/>Kua pen a hi ding hiam?<br/>Zeisu Kha zih a hi.<br/>A min Topa Pasian<br/>Tanglai, tulai ki-bang,<br/>Gal a zo tawntung ding hi.</p>",
+                "3": "<p>Dawi tawh kidim hih leitung in,<br/>Ei te hong bawlsia ding in,<br/>Pasian deih kei i lam kei ding,<br/>Amah'n hong zawhpih ding hi.<br/>Khua mialna kumpipa<br/>Aa-ding i liing kei hi.<br/>Amah i do zo ding,<br/>En un, sia dek ta hi;<br/>kammal khat tawh puk ding hi.</p>",
+                "4": "<p>Leitung vaang liatnate tungah,<br/>Lung damna piak kul lo hi<br/>Kha Siangtho hehpihna ei aa,<br/>Ei lam Amah hong pang khawm,<br/>Leitung nuntakna leh<br/>Nate sia khin ding a;<br/>Pumpi a that ding hi;<br/>Pasian thumaan kip in,<br/>A gam kip tawntung ding hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "A Hing Tawntung Kha Siangtho Piang Sak Den Hi",
+            "english": "Eternal Spirit, Evermore Creating"
+        },
+        "songNo": 40,
+        "doh": "F",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>A hing tawntung Kha Siangtho in piang sak hi,<br/>Hih leitunga nuntakna nei kheempeuh,<br/>Nuntakna sih ni tawlnga nei lo-in pai,<br/>Na min than'na zingsol la in ki-sa,<br/>Hih leitung mite in siatna ngak in om,<br/>Mite lungsim siatna bek tawh dim hi.</p>",
+                "2": "<p>Aw, Topa Nang sung sian'tho-na a dim hi,<br/>Nang sungah nun takna cik-tui luang hi,<br/>Na Kha Siangtho in man-lang takin khauh sak,<br/>Mawhna, sihna te tungah gual zo hi<br/>Ko kha dim sak in la, hong siangtho sak in,<br/>Ka gal uh ka zawh na ding hong huh in!</p>",
+                "3": "<p>Lungnop na ding pan, hak satna sungah mang,<br/>Nat theihna, sih theihna khuamial sungah,<br/>Nong itna khuavaak hong taang sak tawntung in,<br/>Lungkham gimna a thuak mi hong keem in,<br/>Lungsim kha hang te Nang deih bang hi hen,<br/>Tho-a a dang tawh kibat kik na ding!</p>",
+                "4": "<p>Aw, Nang sung hek-ah ko hoihna ding kimuang,<br/>Tanglai pek-a Na mite hong omna,<br/>Zing daii bangin nisial a thak a suak,<br/>Kote lam-et bang lungsim tha hong guan' in,<br/>Tha khauhna ngah in lam ka pai nangun! Amen.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Topa Bangzah In Lian",
+            "english": "How Great Thou Art!"
+        },
+        "songNo": 41,
+        "doh": "C",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>Topa Pasian Nangma khut a na bawlsa<br/>Leitung khempeuh ka ngaihsut cianginah,<br/>Aksite mu in, van gingte ka za hi,<br/>Leitung kheempeuh-ah Na vaang kilang hi.</p>",
+                "2": "<p>Sing lakah zong ka vak kawi kawi ciangin-ah,<br/>Singkung tungah vasa ham ngaih ka za,<br/>Mual sang dawn pan khuam thuk sung ka et suk ciang<br/>Lui ging za in huih dam hong nung hiauhiau</p>",
+                "3": "<p>Pasian in-ah A Tapa haza lo-in,<br/>Hong puak ka ngaih sut ciang um kei phial ing,<br/>Singlamteh tung kei van lungdam tak pua in,<br/>Si san luangin, ka mawhna hong paih sak.</p>",
+                "4": "<p>Kikona tawh, Khazih hong pai kik ciangin,<br/>Hong ciahpih ding, Bangzah ka nuam ding hiam?<br/>Tua ciang kiniam khiatna tawh ka bia ding-a,<br/>'Ka Pasian lian hi,' ci'n ka kiko ding.</p>",
+                "chorus": "<p>Tua a-hih ciang, la kong sa hong hon-pa<br/>Bangzah Na lian,<br/>Bangzah Na lian,<br/>Tua ahih ciang, kong phat hi, Topa aw,<br/>Nang Na lian hi,<br/>Nang Na lian hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "'Na Thumaanna Lian Hi,' Ka Pa Pasian Aw",
+            "english": "Great Is Thy Faithfulness"
+        },
+        "songNo": 42,
+        "doh": "Eb",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>'Na thumaan-na lian hi,' ka Pa Pasian aw;<br/>Kihei ki kheelna liim Na nei kei hi.<br/>Nangma hehpihna ki kheel in bei ngei lo,<br/>Tanglai bangmah Na hi tawntung ding hi.</p>",
+                "2": "<p>Ni, kha lo aksite, ngeina bang ciat in,<br/>Khuakhal le tuk hunte, phal bi, ni pi<br/>Ngeina bang zui a hun hun-a piangte in<br/>Na thumaan, hehpih, itna hong lak hi</p>",
+                "3": "<p>Mawhna mai sak na lo a kip lung nopna,<br/>Nong om pih lung damna lam Nong hilh na,<br/>A ni sim Nong kepna mailam lung, muan'na,<br/>A pha tampite zong, Nangma thupha.</p>",
+                "chorus": "<p>Na thumaan-na lina hi,<br/>Na thu maan-na lian hi.<br/>Zingsang simin hehpihna thak ka mu;<br/>Ka sapna teng Na khut in hong guan' tawn-tung<br/>'Na thu maanna lian hi,' Topa kei tung.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "A Lian Pen Kumpipa",
+            "english": "Come, Thou Almighty King"
+        },
+        "songNo": 43,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>A hong kum suk Topa<br/>Na min phatna ding la<br/>Ko hong pia in.<br/>Vaang lian minthang Topa<br/>Leitung kheempeuh zo a<br/>Hong pai hong uk in la<br/>Beisa ni tawh.</p>",
+                "2": "<p>Biakna nuamna hong pia<br/>Kote'n thu hong ngetna<br/>Na hong ngai in.<br/>Lam khial nei mite in<br/>Thu muh kik na dingin<br/>Lam hilh ding hong pai in<br/>Kha Siangtho aw.</p>",
+                "3": "<p>Thu hilh Kha Siangtho aw<br/>Hilh ding hong pai in la<br/>Tu'n hong pai aw.<br/>Siamna a om kheempeuh<br/>Kha Siangtho om kheempeuh<br/>Ko tungah hong pia'n la<br/>Hong uk ta aw.</p>",
+                "4": "<p>Nam thum pawl khat Pasian<br/>Topa nangmah a lian.<br/>Na min thang hen.<br/>Vantung gam sung nangmah<br/>Na vaanglian mi dingin<br/>Nangmah a tawntung-in<br/>Ka it ding hi.</p>"
+            },
+            "english": null
+        }
+    },
+    {
+        "title": {
+            "zo": "Zeisu'n I Thumna Hong Za",
+            "english": "Jesus, Hear Our Humble Prayer"
+        },
+        "songNo": 44,
+        "doh": "G",
+        "Category": "",
+        "composer": "",
+        "lyric": {
+            "zo": {
+                "1": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "2": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "3": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "4": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "chorus": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "bridge": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>"
+            },
+            "english": {
+                "1": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "2": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "3": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "4": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "chorus": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>",
+                "bridge": "<p>abckdfk dkfdf fjkdjfkds kd flsdjf<br/>kldsfjdskfjldskjfs sdkjflsdjf fsds</br>jfdkjflsdkjflksdjf dfkjsdlkfjsd f<br/>jdsflkjdslkfjs dskjfsjf dsfkjdskjl</p>"
+            }
+        }
+    }
+]
